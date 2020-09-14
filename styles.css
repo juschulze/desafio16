@@ -4,3 +4,10 @@ h1 {
     font-family: Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
